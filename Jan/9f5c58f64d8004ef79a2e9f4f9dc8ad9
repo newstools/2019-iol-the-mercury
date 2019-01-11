@@ -1,0 +1,96 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public%2Finm%2Fmedia%2Fvideo%2Fiol%2F2019%2F01%2F10%2F18763055%2F0%2F2160_30_34.02_Jan102019-00001.png'",
+    "uploadDate": "",
+    "duration": "'PT44.596S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2019/01/10/18763055/0/2160_30_34.02_Jan102019.mp4'",
+    "embedUrl": "'//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE5LzAxLzEwLzE4NzYzMDU1LzAvMjE2MF8zMF8zNC4wMl9KYW4xMDIwMTkubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1547102878029', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: '//media-service-prod.eu-west-1.elasticbeanstalk.com/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE5LzAxLzEwLzE4NzYzMDU1LzAvMjE2MF8zMF8zNC4wMl9KYW4xMDIwMTkubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2019/01/10/18763055/0/2160_30_34.02_Jan102019'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1547102878029',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+
+JOHANNESBURG - The rand whipsawed against the US dollar during European trade yesterday according to NKC Research. 
+The South African currency started the day on the front foot, as improved risk sentiment related to the optimism regarding the US-China trade talks provided support. However, the rand pared these gains to end little changed versus the greenback following a volatile trading session. At the close of local trade, the rand quoted 0.3 percent stronger at R13.88/$, after trading in the range of R13.86/$ - R14.02/$. The rand traded slightly stronger overnight. Expected range today R13.75/$ - R14.00/$.
+
+South African bourse
+
+The JSE All Share (+1.7 percent) ended higher yesterday led by gains across the board. In the overall emerging market sphere, the MSCI Emerging Market Index (+1.9 percent) traded higher. In local news, the All Share benefited from strong performances in market heavyweights, such as Richemont (+1.7 percent), Glencore (+2.2 percent) and Naspers (+4.9 percent).
+Brent crude oil
+Benchmark Brent crude futures climbed higher yesterday, edging past the $60 level, buoyed by optimism that the extended Sino-US talks would defuse the trade dispute. At the close of local trade, benchmark Brent crude futures quoted 1.2 percent higher at $60.19/pb. Crude prices traded higher during Asian trade this morning.
+
+Like Business Report on Facebook by clicking here or follow us on Twitter @Busrep.
+You can also follow the Business Report on Instagram here
+BUSINESS REPORT ONLINE
