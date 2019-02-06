@@ -1,0 +1,114 @@
+DURBAN - A 57-year-old marathon runner from Reservoir Hills, Durban, is using his dream of running seven marathons on seven continents to raise funds for South African charities.
+Sam Appalsamy, a financial planner for Standard Bank, registered the 777M.A.D Trust, which means Marathoning A Difference, last year, with the aim of raising money to assist seven or more charities that need financial assistance.
+
+As a member of the Rising Sun Chatsworth Athletic Club, the father of three has completed five Comrades Marathons, five Two Oceans Marathons and summited Kenya’s Mount Kilimanjaro.
+For the 777M.A.D challenge, Appalsamy is being trained and coached by SA Olympic and Paralympic sports doctor Kevin Subban, and sports consulting doctor to the Sharks, Glen Haggemann, will take care of his dietary plan.
+Last year, he completed three races in Canada, Brazil and Cape Town.
+
+“This year, I will be running in China, Australia and Greece. My final race in 2020 will be in -40ºC weather in Antarctica - only 150 people in the world have done it,” said Appalsamy.
+WATCH: 
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2019/02/06/19155884/0/a0db7ae5-182b-47ab-9244-3b2d9e211fe6-00001.png'",
+    "uploadDate": "",
+    "duration": "'00:00:31.159'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/iol/2019/02/06/19155884/0/a0db7ae5-182b-47ab-9244-3b2d9e211fe6.MP4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE5LzAyLzA2LzE5MTU1ODg0LzAvYTBkYjdhZTUtMTgyYi00N2FiLTkyNDQtM2IyZDllMjExZmU2Lk1QNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1549443620903', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvL2lvbC8yMDE5LzAyLzA2LzE5MTU1ODg0LzAvYTBkYjdhZTUtMTgyYi00N2FiLTkyNDQtM2IyZDllMjExZmU2Lk1QNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/iol/2019/02/06/19155884/0/a0db7ae5-182b-47ab-9244-3b2d9e211fe6'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1549443620903',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+   Sam Appalsamy, a 57-year-old marathon runner from Reservoir Hills, Durban, is using his dream of running seven marathons on seven continents to raise funds for South African charities.
+ 
+
+He said watching his 2-year-old son many years ago go through three-years of intense leukaemia treatment had allowed him to apply his experience to the plight of many South Africans.
+“I flew across the country to meet with various organisations because I wanted to make funds available to those who are in desperate need,” Appalsamy said.
+The SA Bone Marrow Registry, Jumping Kids, Muscular Dystrophy Foundation KZN, Alpha Med Clinics specialising in renal treatment and the Kidney Foundation of South Africa are some of the beneficiaries of the trust.
+
+On the premise that “collectively we can make a difference”, Appalsamy is attempting to get 1 million followers to donate R42 per race, which would raise R294million for charity.
+Appalsamy said he is personally funding the challenge, with every cent raised going to charity.
+His son survived leukaemia and is currently in training to take up the 777M.A.D challenge within the next two years.
+
+For more information, go to www.777madfoundation.co.za or call 0627771314.
+- THE MERCURY
