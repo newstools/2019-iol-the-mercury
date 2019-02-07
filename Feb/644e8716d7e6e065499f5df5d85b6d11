@@ -1,0 +1,107 @@
+DURBAN - The MEC for Transport, Community Safety and Liaison in KwaZulu-Natal, Mxolisi Kaunda has called for calm in institutions of higher learning in the province, following violent protests which have claimed the life of one student from the Durban University of Technology (DUT). A staff member from DUT was also injured during the violent protests and is recuperating in hospital.
+Mlungisi Madonsela was allegedly shot during a scuffle between students at campus security guards during a protest. According to reports, he was rushed to a local hospital, where he succumbed to his injuries. 
+
+DUT Senior Director of Corporate Affairs, Alan Khan, passed on condolences to Madonsela's family. 
+"We plead that the family and the University be offered the opportunity to grieve the passing of the student. As a result of this tragic incident and many other violent altercations, the university management has decided to close the university until further notice," Khan said. 
+Kaunda has requested a thorough investigation into the incident. 
+
+“As the provincial government, we are saddened by the latest developments at the DUT Campus. We want to call upon students to ensure that these protests are peaceful and do not result into further loss of lives and damage to property,” he said 
+On Wednesday morning, protests continued at the UKZN campuses in Glenwood and Pietermaritzburg. 
+A first year student said she was traumatised by the events that unfolded at the UKZN Westville campus on Monday. She said she was in class during lectures when a group of masked men stormed into the venue and began banging on desks. The class had to vacant the lecture room and many ducked for safety while the group of men continued to pull students out of class. 
+
+Since Monday, campuses have suspended learning. 
+Kaunda has also urged the police to increase visibility in all campuses until peace and stability is restored. He also cautioned students that while they have a right to protests, but they must ensure that the protests do not turn violent and result in damage to property.
+
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2019/02/06/37781499WhatsAppVideo20190206at10.26.22-00001.png'",
+    "uploadDate": "",
+    "duration": "'00:00:17.023'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "'//imigino-cdn.iol.co.za/logos/ivoLogo.png'"
+            }
+    },
+    "contentUrl": "'https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/video/2019/02/06/37781499WhatsAppVideo20190206at10.26.22.mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTkvMDIvMDYvMzc3ODE0OTlXaGF0c0FwcFZpZGVvMjAxOTAyMDZhdDEwLjI2LjIyLm1wNCZzdGFuZEFsb25lPXRydWU='"
+}
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMute0:00/0:00Loaded: 0%Progress: 0%Stream TypeLIVE0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1549447218563', {
+  plugins: {
+    embed:{
+  embeddable: true,
+  location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL21lZGlhL3ZpZGVvLzIwMTkvMDIvMDYvMzc3ODE0OTlXaGF0c0FwcFZpZGVvMjAxOTAyMDZhdDEwLjI2LjIyLm1wNCZzdGFuZEFsb25lPXRydWU='
+},
+watermark: {
+  file: '//imigino-cdn.iol.co.za/logos/ivoLogo.png',
+  xpos: 0,
+  ypos: 0,
+  xrepeat: 0,
+  opacity: 0.75
+},
+ga: {
+  'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+},
+playerTrackerReporter: {
+  params:{
+    videoKey: 'public/inm/media/video/2019/02/06/37781499WhatsAppVideo20190206at10.26.22'
+  },
+  playerShowTracking: false,
+  contentPlayTracking: true,
+  videoStartTracking: false
+},
+  }
+});
+player.ima({
+  id: 'player-1549447218563',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+
+- THE MERCURY
