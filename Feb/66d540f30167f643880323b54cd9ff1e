@@ -1,0 +1,19 @@
+DURBAN - Back-ups - we all know we need them just in case something goes wrong and we lose our precious data, but so often they are ignored and forgotten. 
+ 
+
+ After all, back-ups are hardly the most exciting way to spend an evening. But I have a lot more sympathy for those who religiously back up their data, only to find that something unexpected went wrong. These are among the saddest tales we hear in the IT business and I hope to reduce them with this series. If one day I save your bacon with a tip, do let me know!
+Replica: Today I’m covering system images - the belts and braces back-up that is a replica of everything on your PC.
+
+Even if you don’t store a lot of data on your PC, or have your work backed up using the cloud sync tools I discussed last week, PCs require so many programs, updates, drivers, antivirus and other bits and pieces to work properly that it can take me the best part of a day to get a system functioning again after a serious issue like a nasty virus or hard drive crash. All of this time and expense can be avoided if there’s a system image back-up available.
+
+A system image is essentially a “clone” of the data on your system’s primary hard drive (usually the C: drive). It’s a point-in-time copy of all your files, programs and the Windows operating system. The inclusion of the operating system specifically makes this a “system image” rather than a simple “disk image”. Using specific recovery tools, you can restore a system image back to the original drive or a new one, and when complete, the system will be in exactly the same state as it was when you made the system image.
+
+Because system images include everything on a PC, they need an appropriate amount of disk space. An external hard drive is ideal - and these are available at any computer store. You can estimate the size of external drive you’ll require by adding up the used space of each of your PC’s hard drives - to view this, click the Start button, then type “This PC” and click it. Then find your C: drive under “Devices and drives”. Right-click it, then click “Properties”. Under the General tab, the used space is shown. Repeat this process if your system has additional hard drives. Add up all the used space figures and get an external drive bigger than that, allowing for future growth.
+
+Software: External hard drives often include imaging or back-up software already on the drive or as a free download. I don’t install these bundled tools, as I prefer to stick with a standard and widely supported free imaging tool like Macrium Reflect. Lots of other good imaging tools exist, and many of them offer a free version, but lately I’ve recommended Macrium because even the free version is fully functional and simple to use and it’s licensed for personal and business use. Macrium has been around for over 12 years and has UK and US-based support teams. You can download Macrium Reflect from www.macrium.com/reflectfree.
+
+You can download a detailed Macrium Reflect user guide as a PDF file from https://tinyurl.com/mcrmug2019.
+
+I’ll also explain a step-by-step system image back-up next week.
+
+- THE MERCURY
