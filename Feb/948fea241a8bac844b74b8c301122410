@@ -1,0 +1,16 @@
+DURBAN - When it comes to back-ups, you don’t want to make any mistakes. It’s essential to understand how your back-ups function and how to restore a back-up quickly and correctly if the worst should happen.
+Today I’m covering a few of the more esoteric back-up concepts that computer geeks delight in, but others don’t.
+
+Schedule: A scheduled back-up is one that occurs at a predefined time. This might be overnight, weekly or during any period when you’re not using your computer for any heavy processing. Most back-up software provides a scheduling function. Set one, so you don’t have to remember to back up manually.
+Plans: All back-up plans start with a “full” back-up, which is a complete copy of the data you have selected. Once you have a full back-up of your chosen data, you need to decide what to do for any future back-ups. Typically, much of what you’ve backed up wouldn’t have changed from one day to the next, so it might be a waste of time, effort and/or storage space to back it all up again. You could choose to back up only the files that have changed since your last full back-up.
+The shorter back-up routines are usually referred to as either “differential” or “incremental”. Differential back-ups deal with only the data that has changed since the last full back-up. Incremental backups (which are the quickest to complete) copy only data that has changed since the last Incremental back-up (or the last full back-up, if we’re talking about the first incremental back-up).
+
+For example, you chose to make a full back-up every Sunday and an incremental back-up every other night of the week. Monday’s incremental back-up would contain all the data that had changed since Sunday night and so on.
+But if you use differential back-ups on the week nights instead, then Monday’s differential back-up would again contain all the changed data since Sunday’s back-up, but Tuesday’s would also contain all the data changed since Sunday, including the data backed up on Monday. Wednesday’s back-up would again have all the data backed up since Sunday, including the data backed up on Monday and Tuesday.
+The mind-numbing concepts become more important when it’s time for recovery. When you need to restore your data, if your most recent back-up is a full back-up, you simply restore it and all your data is back as it was on the date the back-up was made.
+
+If your most recent back-up is a differential back-up, first you will need to restore your most recent full back-up, and then restore the most recent differential back-up - a slightly longer process.
+If you’re using incremental back-ups, you will first have to restore the last full back-up and then, one at a time and in perfect order, all the incremental back-ups thereafter, until the most recent one. If you miss one, your data is incomplete and, in the case of complex files like databases, the entire restore process might fail.
+Although incremental back-ups are the fastest way to do a daily back-up, they are the most tedious and potentially problematic to restore.
+
+- THE MERCURY
