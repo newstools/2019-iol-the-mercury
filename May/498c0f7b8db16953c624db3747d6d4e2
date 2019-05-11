@@ -1,0 +1,12 @@
+DURBAN - A new way of capturing the movement of the human body has emerged, thanks to a UCT research project that initially investigated the properties of cheetah tails in relation to robotics.
+UCT Department of Electrical Engineering senior lecturer Amir Patel first became interested in tails after he chose to build robots designed to move at high speeds as part of his PhD studies. “I was fascinated with the notion of bioinspiration - or learning lessons from how animals evolved over millions of years and then applying those to new technologies,” he said. 
+
+“There were studies at the time that showed how lizards stabilised their movement when they jump using their tails. I started to wonder: if lizards used this technique, then what about an animal that moves much faster, the cheetah?” said Patel.
+He started to research the subject, but found that there was not much scientific literature about it. To understand more, he decided to do his own research. “I used three methods. First, I built simplified tails for two robots, Dima and Dima II. This showed the effect of a tail on agility by replicating the movement of a cheetah’s tail.
+“Second, I developed some mathematical models that showed by computer simulation that tails stabilise movement. And third, I was fortunate to be invited to the autopsy of a cheetah. It turned out that the cheetah’s tail, while bushy-looking, is actually extremely light. It was thought that a cheetah’s tail accounted for up to 10% of its body weight. But in fact, it is less than 2%.”
+
+Patel determined that a cheetah’s tail creates significant aerodynamic drag as a means to redirect its movement in a stable way. 
+He studied cheetahs at wildlife sanctuaries near Cape Town and Joburg. He created a harness with a camera facing backwards that could be attached to the animals’ backs. Using smartphone technology, such as accelerometers, GPS and gyroscopes, Patel was able capture a great deal of information. He wrote an algorithm that combined these disparate kinds of information and resulted in a coherent model of the skeletal movement of a cheetah, including its spine and tail.
+“While discussing our invention with Saberi Marais of UCT’s Research Contracts & Innovation, we realised that this way of capturing movement could also be applied to the human body,” said Patel.
+
+THE MERCURY
