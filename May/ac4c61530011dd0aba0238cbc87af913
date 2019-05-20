@@ -1,0 +1,25 @@
+Hacking a smartphone is said to be dead-easy: it already has all the necessary tools to listen, watch and track your movements.
+With a camera, microphone, GPS tracking and internet connection, anyone can see where you are, what you’re up to, who your contacts are, what conversations you had - what emails were sent - and they’d have a fair idea of who your inner circle is.
+
+Last week, many users of Facebook’s popular WhatsApp messaging service wondered how safe they truly were when it was reported that a security flaw in its app allowed attackers to install spy software on their targets’ smartphones by exploiting a bug in the app’s phone call function to inject spyware into smartphones. 
+It worked even if the victim did not answer the call - and there was almost no way to tell whether or not you had been hacked because the attackers would delete it from the call log. Wired carried a story: “How hackers broke WhatsApp with just a phone call” and Financial Times said: “WhatsApp voice calls used to inject Israeli spyware on phones”. 
+The malicious code used in the attack was said to have been developed by a shady Israeli firm the NSO Group, which develops a product called Pegasus that can activate smartphone cameras and microphones. The firm’s Pegasus software, which it apparently sold to Saudi Arabia, and previously used to hack activists’ devices, including prominent Emirati human rights activist Ahmed Mansoor and Saudi critic Jamal Khashoggi. 
+
+WhatsApp didn’t say how many of the app’s 1.5 billion users were affected, but encouraged all users to upgrade to the latest version of the app. Beyond the sensationalism of the story - and the potential for affecting a large number of people - the message to upgrade devices regularly is the most salient.
+Paul Ducklin, the spokesperson for Sophos, a British cybersecurity firm, says updating is critical. And in a country such as South Africa, where data is expensive, it’s not a priority. “We believe very few people were affected by the WhatsApp breach.
+“More worrying is that you need to ask why private companies are able to develop such tools - whether or not it was the Israeli group - and be in possession of it? The US National Security Agency has hacking tools that they use for intelligence gathering but we’ve seen what happens when someone gets into a database and they put that data on the dark web for sale.” 
+
+Ducklin says your personal information is worth something to someone - you might not have much in your bank account and you might not be in the public eye or believe that you are of interest to nefarious forces, but your ID, telephone number, credit card numbers, address - and even postal code has a value to someone so crooks can “dine on your data indefinitely”. 
+“Cybercriminals are the ultimate egalitarians: they don’t care about you personally. They only care about getting access to your data. 
+“People are complacent - they don’t think it’s something worth worrying about - so updates aren’t on a lot of people’s radars.”
+
+Ducklin says no one spyware was involved in the WhatsApp hack but it’s suspected to have been quite targeted. The lesson, though, is to install anti-virus on all your devices, even if it slows you down slightly.
+“Sophos offers free anti-virus. There are others, but it’s vital that you use something and don’t leave yourself exposed online.
+“We also advise that people slim down their digital exposure. If you’re not using it, uninstall it. You don’t want it lying around. Security is an inconvenience but it’s worth the 2% pain.”
+
+And don’t be lazy about your password selection: don’t use your birthdate, the name of your child, dog or student number to access all your accounts. Because once that password has been cracked, hackers know that their victims are likely to have used them elsewhere. “Once your information is out there, you can’t get it back. Some things you can’t change, like your ID and your birthday.
+“My advice is - if in doubt, don’t give it out. In the UK, your postal code is accurate to within a few houses, so when I’m asked I like to give Buckingham Palace’s SW1A 1AA, as a laugh. Once someone has that kind of information, they can find you easily too,” he says.
+Consumers are not the victims they make themselves out to be - we invite the trouble in. Ducklin says most people end up downloading spyware inadvertently, thinking an app is great, but when it suddenly starts sending data they become concerned. 
+
+“If you’re downloading apps - only do so from the app or Google stores. At least, there’s some curation. It’s not perfect, it’s not a super secure garden where everybody is safe, no kids are harmed and someone is always vetting it, but it is safer than downloading off random sites.”
+* Georgina Crouth is a consumer watchdog with serious bite. Write to her at consumer@inl.co.za, tweet her @georginacrouth and follow her on Facebook.
