@@ -1,0 +1,100 @@
+Nelspruit - EFF leader Julius Malema will launch a campaign targeting one of South Africa's richest people, businessman Johann Rupert. 
+Malema told EFF supporters at a packed KaNyamazane Stadium in Nelspruit that he has been informed that there was a place in Malelane owned by Rupert that did not pay its municipality rates.
+
+Rupert's exclusive Leopard Creek Golf Estate reportedly owes the Nkomazi Local Municipality millions of rands for rates.
+"The municipality is unable to close him down because they are scared of him, because Rupert is the father of their president (Cyril Ramaphosa) and all their leaders," Malema said.
+He urged EFF supporters and members to pay Rupert a visit and ask him when he is paying for the services.
+
+ "We are made to pay for water and electricity, Rupert is not paying for water and electricity. Let us go to every door of a property owned by Rupert and say to them: 'Pay Malelane'," said Malema.
+
+ 
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/07/27/29964444/0/EFFleaderJuliusMalemaarrivingatthepartyssixthanniversarycelebrationsattheKaNyamazaneStadiuminNelspruit..0000003.jpg'",
+    "uploadDate": "",
+    "duration": "'00:02:50.319'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "''"
+            }
+    },
+    "contentUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/07/27/29964444/0/EFFleaderJuliusMalemaarrivingatthepartyssixthanniversarycelebrationsattheKaNyamazaneStadiuminNelspruit..mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzA3LzI3LzI5OTY0NDQ0LzAvRUZGbGVhZGVySnVsaXVzTWFsZW1hYXJyaXZpbmdhdHRoZXBhcnR5c3NpeHRoYW5uaXZlcnNhcnljZWxlYnJhdGlvbnNhdHRoZUthTnlhbWF6YW5lU3RhZGl1bWluTmVsc3BydWl0Li5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+   
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1564247935173', {
+  plugins: {
+    brand: {
+        image: "//cdn.mojoreporter.com/videojs/imigino30.png",
+        title: "Imigino Streaming Video",
+        destination: "https://www.publisherstoolbox.com/imigino/",
+        destinationTarget: "_blank"
+    },
+    embed:{
+      embeddable: true,
+      location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzA3LzI3LzI5OTY0NDQ0LzAvRUZGbGVhZGVySnVsaXVzTWFsZW1hYXJyaXZpbmdhdHRoZXBhcnR5c3NpeHRoYW5uaXZlcnNhcnljZWxlYnJhdGlvbnNhdHRoZUthTnlhbWF6YW5lU3RhZGl1bWluTmVsc3BydWl0Li5tcDQmc3RhbmRBbG9uZT10cnVl'
+    },
+    ga: {
+      'eventsToTrack': ['start', 'end', 'play', 'pause', 'fullscreen', 'error']
+    },
+  }
+});
+player.ima({
+  id: 'player-1564247935173',
+  requestMode: 'onPlay',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  EFF leader Julius Malema arriving at the party's sixth-anniversary celebrations at the KaNyamazane Stadium in Nelspruit. Video: Loyiso Sidimba
+ 
+
+ He said the ANC and the municipality it governs were scared of Rupert.
+ "Let us go there. The leadership of the EFF will announce the date and time, the targeted properties of Rupert where we are going to visit peacefully and say to him 'if you want to voetsek, voetsek, stop threatening us here," Malema explained. 
+He said if Rupert wants to leave the country he must do so.
+
+ It was recently reported that Rupert was considering leaving South Africa because of his disappointment with the ANC, Ramaphosa and the possibility of Deputy President David Mabuza becoming the head of state.
+Political Bureau
