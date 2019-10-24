@@ -1,0 +1,103 @@
+Johannesburg - African National Congress (ANC) deputy secretary-general Jessie Duarte says Mmusi Maimane's resignation as DA leader is not a significant matter for the ANC. 
+Duarte said whether Maimane chose to stay or leave, that was not an issue for the governing party. 
+
+"If he chooses to resign, surely that is his choice. It has nothing to do with the ANC. Once again, we wish him well. If he chooses to do so, we are okay with that. He is not a member of the ANC. It isn't a significantly important matter to us," she said. 
+Maimane stepped down as DA leader on Wednesday following a DA FedEx meeting which discussed his and Athol Trollip's resignations. 
+He said the "DA is not the vehicle best suited to take forward the vision of building one South Africa for all". 
+
+ 
+
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/10/24/35790732/0/Mmusi_Maimane_quits_DA_as_leader_and_MP-5db175fca14e7f171f_Oct_24_219_1_9_51.0000003.jpg'",
+    "uploadDate": "",
+    "duration": "'00:01:02.107'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'",
+            "logo": {
+                    "@type": "ImageObject",
+                    "url": "''"
+            }
+    },
+    "contentUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/10/24/35790732/0/Mmusi_Maimane_quits_DA_as_leader_and_MP-5db175fca14e7f171f_Oct_24_219_1_9_51.mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzEwLzI0LzM1NzkwNzMyLzAvTW11c2lfTWFpbWFuZV9xdWl0c19EQV9hc19sZWFkZXJfYW5kX01QLTVkYjE3NWZjYTE0ZTdmMTcxZl9PY3RfMjRfMjE5XzFfOV81MS5tcDQmc3RhbmRBbG9uZT10cnVl'"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+    
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1571915941280', {
+  plugins: {
+    brand: {
+        image: "//cdn.mojoreporter.com/videojs/imigino30.png",
+        title: "Imigino Streaming Video",
+        destination: "https://www.publisherstoolbox.com/imigino/",
+        destinationTarget: "_blank"
+    },
+    embed:{
+      embeddable: true,
+      location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzEwLzI0LzM1NzkwNzMyLzAvTW11c2lfTWFpbWFuZV9xdWl0c19EQV9hc19sZWFkZXJfYW5kX01QLTVkYjE3NWZjYTE0ZTdmMTcxZl9PY3RfMjRfMjE5XzFfOV81MS5tcDQmc3RhbmRBbG9uZT10cnVl'
+    },
+    ga: {
+      'eventLabel': ['https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/10/24/35790732/0/Mmusi_Maimane_quits_DA_as_leader_and_MP-5db175fca14e7f171f_Oct_24_219_1_9_51.mp4'],
+      'eventsToTrack': ['percentsPlayed', 'start', 'end', 'play', 'pause', 'fullscreen', 'error']
+    },
+  }
+});
+player.ima({
+  id: 'player-1571915941280',
+  requestMode: 'onPlay',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Video: Kim Kay/African News Agency
+ 
+
+Maimane had indicated during Wednesday's briefing that he would stay on as DA leader in Parliament, but on Thursday he resigned as an MP and from the DA. 
+His departure follows the resignation of Joburg Mayor Herman Mashaba on Monday. Mashaba resigned after Helen Zille's election as the chairperson of the DA federal council. 
+Mashaba's said Zille's election signalled a win for a faction in the party that had values he could not align with. 
+
+Mashaba will remain as mayor until November 27 when a successor is chosen.
+IOL
