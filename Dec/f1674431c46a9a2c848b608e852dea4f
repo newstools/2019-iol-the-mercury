@@ -1,0 +1,97 @@
+CAPE TOWN - Eskom said on Friday unplanned breakdowns at its plants were affecting just under 12,000 megawatt of generating capacity, forcing it to burn diesel and use water from pumped storage schemes to augment its base load.
+"Load shedding will be required all day to cater for further trips and to create capacity to replenish water reserves for our pumped storage schemes," said the state-owned utility, which supplies about 95 percent of the country's power needs, mostly from coal.
+
+"Breakdowns are at 11,996 MW as at 06:30 this morning. We continue to use diesel for our open cycle gas turbines and water at pumped storage schemes to supplement capacity."
+WATCH: 
+
+ 
+
+
+
+
+
+
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "'IOL video'",
+    "description": "'IOL video'",
+    "thumbnailUrl": "''",
+    "uploadDate": "",
+    "duration": "'P0Y0M0DT0H0M41.240S'",
+    "publisher": {
+            "@type": "Organization",
+            "name": "'IOL'"
+    },
+    "contentUrl": "'https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/12/13/39200613/0/12__MW_of_generating_capacity_affecte-5df371571f792132afa_Dec_13_219_11_29_25.mp4'",
+    "embedUrl": "'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzEyLzEzLzM5MjAwNjEzLzAvMTJfX01XX29mX2dlbmVyYXRpbmdfY2FwYWNpdHlfYWZmZWN0ZS01ZGYzNzE1NzFmNzkyMTMyYWZhX0RlY18xM18yMTlfMTFfMjlfMjUubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-17710838-1', 'auto');
+
+  
+  
+  
+    To view this video please enable JavaScript, and consider upgrading to a web browser that
+    supports HTML5 video
+  
+Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently playing liveLIVERemaining Time -0:00 Playback Rate1xChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions and subtitles off, selectedAudio TrackFullscreenThis is a modal window.No compatible source was found for this media.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Video Advertisement
+
+var player = videojs('player-1576236832369', {
+  plugins: {
+    brand: {
+        image: "//cdn.mojoreporter.com/videojs/imigino30.png",
+        title: "Imigino Streaming Video",
+        destination: "https://www.publisherstoolbox.com/imigino/",
+        destinationTarget: "_blank"
+    },
+    embed:{
+      embeddable: true,
+      location: 'https://video.iol.co.za/video/1/buildEnvelope/c291cmNlPUlPTCZ2aWRlb1VybD1odHRwczovL2lubS1iYW9iYWItcHJvZC1ldS13ZXN0LTEuczMuYW1hem9uYXdzLmNvbS9wdWJsaWMvaW5tL2lvbC9tZWRpYS92aWRlby8yMDE5LzEyLzEzLzM5MjAwNjEzLzAvMTJfX01XX29mX2dlbmVyYXRpbmdfY2FwYWNpdHlfYWZmZWN0ZS01ZGYzNzE1NzFmNzkyMTMyYWZhX0RlY18xM18yMTlfMTFfMjlfMjUubXA0JnN0YW5kQWxvbmU9dHJ1ZQ=='
+    },
+    ga: {
+      'eventLabel': ['https://inm-cdn.baobabsuite.com/public/inm/iol/media/video/2019/12/13/39200613/0/12__MW_of_generating_capacity_affecte-5df371571f792132afa_Dec_13_219_11_29_25.mp4'],
+      'eventsToTrack': ['percentsPlayed', 'start', 'end', 'play', 'pause', 'fullscreen', 'error']
+    },
+  }
+});
+player.ima({
+  id: 'player-1576236832369',
+  requestMode: 'onPlay',
+  adLabel: 'Video Advertisement',
+  adTagUrl: 'https://pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/116466607/IOL/Video&ciu_szs=300x250,300x600,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1'
+});
+
+
+
+
+ 
+  Video by: Chelsea Lotz, Business Report TV
+ 
+
+Eskom said it was trying to reduce the level of unplanned breakdowns to below 9,500 megawatts to minimise loadshedding and avoid having to implement rotational blackouts next week.
+"Eskom will provide a prognosis for the long weekend later today," it added.
+The power utility says it is working with police to investigate alleged sabotage at its Tutuka power station in Mpumalanga province which wiped 2,000  megawatt off the grid and prompted it to implement Stage 6 loadshedding on Monday, which entails suppressing up to 6,000 MW of demand to avoid a total collapse of the grid.
+
+On Friday it was implementing Stage 2 loadshedding until 11 pm.
+African News Agency
